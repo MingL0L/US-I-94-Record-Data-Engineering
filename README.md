@@ -92,7 +92,7 @@ In this project, we will build an ETL to build staging tables, fact table and di
 ### Step 3: Define the Data Model
 #### 3.1 Conceptual Data Model
 We will use star schema as below:
-![Tux, the Linux mascot](schema_i94.PNG)
+![Tux, the Linux mascot](i94.PNG)
 
 ###### 3.1.1 Fact table
 Our fact table **fact_i94visits** will contain informations from the i94 immigration data 
